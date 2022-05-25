@@ -1,4 +1,4 @@
-# Project-1-Homebuddy-App
+# Homebuddy-App
 <img src="https://res.cloudinary.com/dcm18vy74/image/upload/v1652983440/Project1-Images/Screen_Shot_2022-05-19_at_1.03.49_PM_skuzei.png">
 
 ### Developed by:
