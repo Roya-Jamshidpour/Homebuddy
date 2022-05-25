@@ -26,4 +26,4 @@ After selecting my cocktail I would like to choose a movie to watch during my me
 Once I have selected all of the components of my evening in, I would like to be presented with a final screen that displays all of my choices.
 
 ## Here is a link to the Homebuddy app!
-<a href="https://masonmccoy.github.io/meal-prepper/">https://masonmccoy.github.io/meal-prepper/
+<a href="https://roya-jamshidpour.github.io/Homebuddy/">https://roya-jamshidpour.github.io/Homebuddy/
