@@ -2,10 +2,10 @@
 <img src="https://res.cloudinary.com/dcm18vy74/image/upload/v1652983440/Project1-Images/Screen_Shot_2022-05-19_at_1.03.49_PM_skuzei.png">
 
 ### Developed by:
-Mason McCoy,
-Roya Jamshidpour,
+Mason McCoy - mmasonmccoy@gmail.com
+Roya Jamshidpour - roya.jamshidpour@gmail.com
 Catie O'Connor,
-Ian Sieg
+Ian Sieg - ianmsieg@gmail.com 
 
 ## Description
 Everyone wants an evening in, whether it be by themselves or with friends. With the Homebuddy app you can make an evening at home just as memorable as an evening out! This app is for the homebody who needs a little bit of inspiration for their food and entertainmet. 
