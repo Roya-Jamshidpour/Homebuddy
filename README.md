@@ -2,9 +2,9 @@
 <img src="https://res.cloudinary.com/dcm18vy74/image/upload/v1652983440/Project1-Images/Screen_Shot_2022-05-19_at_1.03.49_PM_skuzei.png">
 
 ### Developed by:
-Mason McCoy - mmasonmccoy@gmail.com
-Roya Jamshidpour - roya.jamshidpour@gmail.com
-Catie O'Connor,
+Mason McCoy - mmasonmccoy@gmail.com,
+Roya Jamshidpour - roya.jamshidpour@gmail.com,
+Catie O'Connor - catieoconnor19@yahoo.com,
 Ian Sieg - ianmsieg@gmail.com 
 
 ## Description
